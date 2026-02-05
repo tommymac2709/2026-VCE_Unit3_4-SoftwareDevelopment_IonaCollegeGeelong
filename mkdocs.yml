@@ -3,21 +3,48 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.sections
+    - navigation.indexes
 
 nav:
   - Home: index.md
   - Unit 3 - AoS1 - Programming:
+    - Coursework: unit-3-outcome-1/coursework/index.md
     - Overview: unit-3-outcome-1/overview.md
     - Key Knowledge: unit-3-outcome-1/key-knowledge.md
     - Key Skills: unit-3-outcome-1/key-skills.md
-    - Coursework:
-      - "1. Data Types and Data Structures":
-        - "a. What You Need To Know": unit-3-outcome-1/coursework/1-data-types-and-data-structures/a-what-you-need-to-know.md
-        - "b. Test Your Knowledge": unit-3-outcome-1/coursework/1-data-types-and-data-structures/b-test-your-knowledge.md
-        - "c. Practical Examples": unit-3-outcome-1/coursework/1-data-types-and-data-structures/c-practical-examples.md
-        - "d. Applied Task": unit-3-outcome-1/coursework/1-data-types-and-data-structures/d-applied-task.md
-        - "e. Extras": unit-3-outcome-1/coursework/1-data-types-and-data-structures/e-extras.md
+    - "1. Data Types and Data Structures":
+      - unit-3-outcome-1/coursework/1-data-types-and-data-structures/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/1-data-types-and-data-structures/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/1-data-types-and-data-structures/b-test-your-knowledge.md
+      - "c. Practical Examples": unit-3-outcome-1/coursework/1-data-types-and-data-structures/c-practical-examples.md
+      - "d. Applied Task": unit-3-outcome-1/coursework/1-data-types-and-data-structures/d-applied-task.md
+      - "e. Extras": unit-3-outcome-1/coursework/1-data-types-and-data-structures/e-extras.md
+    - "2. Solution Requirements":
+      - unit-3-outcome-1/coursework/2-solution-requirements/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/2-solution-requirements/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/2-solution-requirements/b-test-your-knowledge.md
+      - "c. Applied Task": unit-3-outcome-1/coursework/2-solution-requirements/c-applied-task.md
+      - "d. Extras": unit-3-outcome-1/coursework/2-solution-requirements/d-extras.md
+    - "3. Control Functions - Validation - Errors":
+      - unit-3-outcome-1/coursework/3-control-functions-validation-errors/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/3-control-functions-validation-errors/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/3-control-functions-validation-errors/b-test-your-knowledge.md
+      - "c. Practical Examples": unit-3-outcome-1/coursework/3-control-functions-validation-errors/c-practical-examples.md
+      - "d. Applied Task": unit-3-outcome-1/coursework/3-control-functions-validation-errors/d-applied-task.md
+      - "e. Extras": unit-3-outcome-1/coursework/3-control-functions-validation-errors/e-extras.md
+    - "4. Naming Conventions - Internal Documentation - Debugging and Testing":
+      - unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/b-test-your-knowledge.md
+      - "c. Practical Examples": unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/c-practical-examples.md
+      - "d. Applied Task": unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/d-applied-task.md
+      - "e. Extras": unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/e-extras.md
+    - "5. Design Tools for Representing Modules":
+      - unit-3-outcome-1/coursework/5-design-tools-representing-modules/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/5-design-tools-representing-modules/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/5-design-tools-representing-modules/b-test-your-knowledge.md
+      - "c. Applied Task": unit-3-outcome-1/coursework/5-design-tools-representing-modules/c-applied-task.md
+      - "d. Extras": unit-3-outcome-1/coursework/5-design-tools-representing-modules/d-extras.md
 
 extra_css:
   - stylesheets/extra.css

@@ -3,31 +3,68 @@
 ## Activity Set – Data Types ( KK 3.1.4 )
 
 ### A. Multiple-choice review
+
 (1 mark each – Section A style)
 
-1. **Which of the following is the most efficient data type to store the number of seats in a theatre?**
-    - A. String
-    - B. Boolean
-    - C. Integer
-    - D. Floating point
+#### 1. Which of the following is the most efficient data type to store the number of seats in a theatre?
 
-2. **A Boolean variable is best used when:**
-    - A. A number needs to be stored with decimal places
-    - B. Only two possible states or outcomes exist
-    - C. A long paragraph of text must be stored
-    - D. Multiple values must be stored together in a structure
+A. String
 
-3. **In most programming languages, which operator tests for inequality?**
-    - A. =
-    - B. !=
-    - C. ==
-    - D. :=
+B. Boolean
 
-4. **A variable price will always contain whole numbers of cents. Which data type should be used?**
-    - A. Boolean
-    - B. Float
-    - C. Integer
-    - D. String
+C. Integer
+
+D. Floating point
+
+??? note "Answer"
+    **C. Integer**
+
+---
+
+#### 2. A Boolean variable is best used when:
+
+A. A number needs to be stored with decimal places
+
+B. Only two possible states or outcomes exist
+
+C. A long paragraph of text must be stored
+
+D. Multiple values must be stored together in a structure
+
+??? note "Answer"
+    **B. Only two possible states or outcomes exist**
+
+---
+
+#### 3. In most programming languages, which operator tests for inequality?
+
+A. =
+
+B. !=
+
+C. ==
+
+D. :=
+
+??? note "Answer"
+    **B. !=**
+
+---
+
+#### 4. A variable price will always contain whole numbers of cents. Which data type should be used?
+
+A. Boolean
+
+B. Float
+
+C. Integer
+
+D. String
+
+??? note "Answer"
+    **C. Integer**
+
+---
 
 ### B. Short-answer practice
 *(2–4 marks each – Section B style)*
@@ -62,15 +99,31 @@ Write pseudocode for a short program that:
 ## Activity Set – Data Structures ( KK 3.1.5 )
 
 ### A. Identify the structure
+
 *(1 mark each – recall check)*
 
 Indicate whether each description refers to a one-dimensional array, two-dimensional array or record:
 
-1. Stores student names, IDs and GPAs.
+#### 1. Stores student names, IDs and GPAs.
 
-2. Represents seats in a cinema arranged in rows and columns.
+??? note "Answer"
+    **Record** (contains fields of different data types)
 
-3. Contains the daily sales totals for a month.
+---
+
+#### 2. Represents seats in a cinema arranged in rows and columns.
+
+??? note "Answer"
+    **Two-dimensional array** (organized in rows and columns)
+
+---
+
+#### 3. Contains the daily sales totals for a month.
+
+??? note "Answer"
+    **One-dimensional array** (linear list of values)
+
+---
 
 ### B. Construct and label
 *(diagram / short answer – 3–4 marks)*

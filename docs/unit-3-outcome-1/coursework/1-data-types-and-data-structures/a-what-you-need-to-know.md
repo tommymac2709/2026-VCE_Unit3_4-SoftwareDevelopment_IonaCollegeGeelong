@@ -25,6 +25,9 @@ Data structures organise multiple data items so they can be efficiently accessed
 
 In programming, a data type is a method of classifying a variable to determine the data that variable can contain, as well as how the variable can be manipulated – that is, what it can do, and what can be done to it. While programming languages vary widely from each other, data types do not; they are consistent across all programming languages. When programming, it can be important to choose an appropriate data type when creating a variable. It is also important to select the most efficient data type. For example, it is not efficient to select a numeric data type that supports decimal places when creating a variable if that variable will only ever contain whole numbers. Similarly, storing a number as a string is not as efficient as storing it as a numeric data type, even if it is possible to convert strings to numbers.
 
+!!! tip "Key Point"
+    Data types are consistent across all programming languages. Selecting the **most efficient data type** is important - don't use decimal types for whole numbers, and don't store numbers as strings.
+
 Numeric – The numeric data type consists of whole numbers, referred to as integers; decimal numbers, referred to as floating points; and date/time, which are stored in integer form. Integers can be referred to as unsigned, which means they can only store positive whole numbers, or signed, which means they can store both positive and negative whole numbers. All numeric data types can have mathematical operations performed on them, including addition (+), subtraction (–), multiplication (*), division (/), whole number division (//), remainder after division (%), powers (**), and assignment (= or ←). Numeric data can also undergo comparisons such as <, ≤, >, ≥, ==, and !=.
 
 Text – Both text and characters can undergo the same comparisons as numeric data types, and depending on the programming language, can also use fundamental data type operations such as addition, multiplication and assignment. An example of text addition is:
@@ -34,7 +37,7 @@ INPUT firstName
 PRINT “Hello “ + firstName + “!”
 ```
 
-Boolean – Boolean data types have only two possible values: 0 and 1. In a programming language these are often referenced with the words ‘False’ or ‘True’. This data type is named after George Boole, a 19th-century mathematician who defined an algebraic system of logic. Boolean data types are very useful for systems that require decisions to be made or conditions to be met. Boolean values can be used with logical operators and, or, and not, in statements where a condition must be met, such as:
+Boolean – Boolean data types have only two possible values: 0 and 1. In a programming language these are often referenced with the words 'False' or 'True'. This data type is named after George Boole, a 19th-century mathematician who defined an algebraic system of logic. Boolean data types are very useful for systems that require decisions to be made or conditions to be met. Boolean values can be used with logical operators and, or, and not, in statements where a condition must be met, such as:
 
 ```
 IF isDark = True AND lightOn = False THEN
@@ -42,11 +45,21 @@ IF isDark = True AND lightOn = False THEN
 ENDIF
 ```
 
+!!! tip "Key Point"
+    Boolean data types have only **two possible values** (True/False or 0/1) and are used with logical operators (and, or, not) for decision-making.
+
 ## Data Structures (KK3.1.5)
 A data structure is a method of organising data to allow particular operations to be performed on them efficiently; in this way, data structures are more complex than data types. The types of data structures used in Software Development are: one-dimensional arrays, two-dimensional arrays, and records.
 
 Array – An array is a data structure that contains groupings of data. These elements must be of the same data type, such as character, numeric or Boolean. Arrays can also store groupings of other data structures, such as fields, records or even other arrays. The contents of an array are referenced using an index value – often an integer starting at 0. Arrays can be considered to have dimensions. A one-dimensional array is a linear data structure where elements are accessed by a single index. A two-dimensional array stores elements in a grid-like format, organised into rows and columns, allowing access using two indices.
 
+!!! warning "Important"
+    Arrays start at index value 0 in almost all programming languages. All elements in an array must be of the **same data type**.
+
 Record – Records are collections of related data (fields) that may or may not have the same data types.
+
+!!! info "Arrays vs Records"
+    **Arrays:** Same data type, accessed by index (0, 1, 2...)
+    **Records:** Different data types allowed, accessed by field name
 
 Summary Facts – Data structures are more complex than data types. Arrays start at index value 0 in almost all programming languages. Arrays traditionally contain elements of the same data type, but this depends on the programming language selected.
