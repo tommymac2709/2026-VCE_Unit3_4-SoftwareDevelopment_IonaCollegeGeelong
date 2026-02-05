@@ -29,7 +29,7 @@ In Unit 3, students interpret designs and apply the problem-solving methodology 
 
 ## 🛠️ Unit 4: Developing the Solution
 
-In Unit 4, students transform their detailed designs from Unit 3 into a fully functional software solution.
+In Unit 4, students transform their detailed designs from Unit 3 into a fully functional software solution as well as exploring secure software development practices.
 
 ### Outcome 1: Development & Evaluation (SAT Part 2)
 * **Focus:** Coding, testing, and evaluating the solution.
@@ -45,10 +45,9 @@ In Unit 4, students transform their detailed designs from Unit 3 into a fully fu
 
 We will be using the following tools this year:
 
-* **Language:** Python 3.12+
-* **Frameworks:** Flask / Django (Web) or PyGame / Tkinter (GUI)
-* **Version Control:** Git & GitHub
-* **IDE:** Visual Studio Code
+* **Language:** C#
+* **Version Control:** Git (through GitHub Desktop)
+* **IDE:** Visual Studio Community 2026 OR VS Code
 
 !!! tip "Getting Help"
-    If you are stuck on a coding problem, try explaining it to the "Rubber Duck" on your desk before asking a peer!
+    If you are stuck on a coding problem, try explaining it to the "Rubber Duck" on your desk before asking a peer or teacher!
