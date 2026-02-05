@@ -121,11 +121,24 @@ Understanding scope, modularity, and object-oriented programming fundamentals.
 
 ---
 
+### 10. OOP Principles (KK 3.1.7)
+
+Understanding the fundamental principles of Object-Oriented Programming.
+
+**Covers:**
+- Abstraction: focusing on relevant features only
+- Encapsulation: protecting data through controlled access
+- Generalisation: identifying common features across classes
+- Inheritance: creating specialised classes from general classes
+- Relationships between OOP principles
+
+---
+
 ## How to Use This Section
 
 Each topic follows a consistent structure designed to build understanding progressively:
 
-### Standard Structure (Topics 1, 3, 4, 6, 7, 8, 9):
+### Standard Structure (Topics 1, 3, 4, 6, 7, 8, 9, 10):
 - **Overview** - Introduction and learning objectives
 - **a. What You Need To Know** - Core concepts and theory
 - **b. Test Your Knowledge** - Multiple choice and short answer questions
@@ -174,3 +187,4 @@ As you complete each topic, check off your progress:
 - [ ] 7. Data Sources - TXT, CSV and XML
 - [ ] 8. Searching and Sorting Algorithms
 - [ ] 9. Variables, Functions, and Classes
+- [ ] 10. OOP Principles

@@ -26,6 +26,7 @@ This section contains simple, practical code examples organized by topic. Each e
 - **Variables and Constants** - Scope and best practices
 - **Functions and Methods** - Modular code patterns
 - **Classes and Objects** - Blueprint and instance examples
+- **OOP Principles** - Abstraction, encapsulation, generalisation, and inheritance
 
 ---
 

@@ -29,6 +29,7 @@ nav:
       - Variables and Constants: code-repo/oop-variables-constants.md
       - Functions and Methods: code-repo/oop-functions-methods.md
       - Classes and Objects: code-repo/oop-classes-objects.md
+      - OOP Principles: code-repo/oop-principles.md
   - Unit 3 - AoS1 - Programming:
     - Coursework: unit-3-outcome-1/coursework/index.md
     - Overview: unit-3-outcome-1/overview.md
@@ -95,6 +96,13 @@ nav:
       - "c. Practical Examples": unit-3-outcome-1/coursework/9-variables-functions-classes/c-practical-examples.md
       - "d. Applied Task": unit-3-outcome-1/coursework/9-variables-functions-classes/d-applied-task.md
       - "e. Extras": unit-3-outcome-1/coursework/9-variables-functions-classes/e-extras.md
+    - "10. OOP Principles":
+      - unit-3-outcome-1/coursework/10-oop-principles/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/10-oop-principles/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/10-oop-principles/b-test-your-knowledge.md
+      - "c. Practical Examples": unit-3-outcome-1/coursework/10-oop-principles/c-practical-examples.md
+      - "d. Applied Task": unit-3-outcome-1/coursework/10-oop-principles/d-applied-task.md
+      - "e. Extras": unit-3-outcome-1/coursework/10-oop-principles/e-extras.md
 
 extra_css:
   - stylesheets/extra.css
