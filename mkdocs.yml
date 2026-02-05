@@ -1,12 +1,26 @@
 site_name: 2026 VCE Software Development - Iona College Geelong
 theme:
   name: material
-  palette:
-    primary: deep purple
-    accent: teal
   features:
     - navigation.tabs
     - navigation.sections
+
+nav:
+  - Home: index.md
+  - Unit 3 - AoS1 - Programming:
+    - Overview: unit-3-outcome-1/overview.md
+    - Key Knowledge: unit-3-outcome-1/key-knowledge.md
+    - Key Skills: unit-3-outcome-1/key-skills.md
+    - Coursework:
+      - "1. Data Types and Data Structures":
+        - "a. What You Need To Know": unit-3-outcome-1/coursework/1-data-types-and-data-structures/a-what-you-need-to-know.md
+        - "b. Test Your Knowledge": unit-3-outcome-1/coursework/1-data-types-and-data-structures/b-test-your-knowledge.md
+        - "c. Practical Examples": unit-3-outcome-1/coursework/1-data-types-and-data-structures/c-practical-examples.md
+        - "d. Applied Task": unit-3-outcome-1/coursework/1-data-types-and-data-structures/d-applied-task.md
+        - "e. Extras": unit-3-outcome-1/coursework/1-data-types-and-data-structures/e-extras.md
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
