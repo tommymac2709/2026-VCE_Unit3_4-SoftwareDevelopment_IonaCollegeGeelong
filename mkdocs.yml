@@ -7,6 +7,17 @@ theme:
 
 nav:
   - Home: index.md
+  - Code Repo:
+    - code-repo/index.md
+    - FOR Loops:
+      - Simple: code-repo/for-loops-simple.md
+      - Advanced: code-repo/for-loops-advanced.md
+    - WHILE Loops:
+      - Simple: code-repo/while-loops-simple.md
+      - Advanced: code-repo/while-loops-advanced.md
+    - DO/WHILE Loops:
+      - Simple: code-repo/do-while-loops-simple.md
+      - Advanced: code-repo/do-while-loops-advanced.md
   - Unit 3 - AoS1 - Programming:
     - Coursework: unit-3-outcome-1/coursework/index.md
     - Overview: unit-3-outcome-1/overview.md
