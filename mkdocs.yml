@@ -56,6 +56,13 @@ nav:
       - "b. Test Your Knowledge": unit-3-outcome-1/coursework/5-design-tools-representing-modules/b-test-your-knowledge.md
       - "c. Applied Task": unit-3-outcome-1/coursework/5-design-tools-representing-modules/c-applied-task.md
       - "d. Extras": unit-3-outcome-1/coursework/5-design-tools-representing-modules/d-extras.md
+    - "6. Checking That Modules Function Correctly":
+      - unit-3-outcome-1/coursework/6-checking-modules-function-correctly/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/6-checking-modules-function-correctly/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/6-checking-modules-function-correctly/b-test-your-knowledge.md
+      - "c. Practical Examples": unit-3-outcome-1/coursework/6-checking-modules-function-correctly/c-practical-examples.md
+      - "d. Applied Task": unit-3-outcome-1/coursework/6-checking-modules-function-correctly/d-applied-task.md
+      - "e. Extras": unit-3-outcome-1/coursework/6-checking-modules-function-correctly/e-extras.md
 
 extra_css:
   - stylesheets/extra.css
