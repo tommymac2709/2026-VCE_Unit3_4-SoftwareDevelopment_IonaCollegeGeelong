@@ -18,6 +18,17 @@ nav:
     - DO/WHILE Loops:
       - Simple: code-repo/do-while-loops-simple.md
       - Advanced: code-repo/do-while-loops-advanced.md
+    - File I/O:
+      - TXT Files: code-repo/file-io-txt.md
+      - CSV Files: code-repo/file-io-csv.md
+      - XML Files: code-repo/file-io-xml.md
+    - Algorithms:
+      - Search: code-repo/algorithms-search.md
+      - Sort: code-repo/algorithms-sort.md
+    - Object-Oriented Programming:
+      - Variables and Constants: code-repo/oop-variables-constants.md
+      - Functions and Methods: code-repo/oop-functions-methods.md
+      - Classes and Objects: code-repo/oop-classes-objects.md
   - Unit 3 - AoS1 - Programming:
     - Coursework: unit-3-outcome-1/coursework/index.md
     - Overview: unit-3-outcome-1/overview.md
