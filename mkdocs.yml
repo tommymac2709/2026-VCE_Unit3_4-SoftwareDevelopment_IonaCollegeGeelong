@@ -70,6 +70,20 @@ nav:
       - "c. Practical Examples": unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/c-practical-examples.md
       - "d. Applied Task": unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/d-applied-task.md
       - "e. Extras": unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/e-extras.md
+    - "8. Searching and Sorting Algorithms":
+      - unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/b-test-your-knowledge.md
+      - "c. Practical Examples": unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/c-practical-examples.md
+      - "d. Applied Task": unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/d-applied-task.md
+      - "e. Extras": unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/e-extras.md
+    - "9. Variables, Functions, and Classes":
+      - unit-3-outcome-1/coursework/9-variables-functions-classes/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/9-variables-functions-classes/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/9-variables-functions-classes/b-test-your-knowledge.md
+      - "c. Practical Examples": unit-3-outcome-1/coursework/9-variables-functions-classes/c-practical-examples.md
+      - "d. Applied Task": unit-3-outcome-1/coursework/9-variables-functions-classes/d-applied-task.md
+      - "e. Extras": unit-3-outcome-1/coursework/9-variables-functions-classes/e-extras.md
 
 extra_css:
   - stylesheets/extra.css

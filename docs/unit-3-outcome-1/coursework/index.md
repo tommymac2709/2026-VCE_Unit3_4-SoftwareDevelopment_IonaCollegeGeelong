@@ -95,11 +95,37 @@ Understanding different data source file formats and when to use them.
 
 ---
 
+### 8. Searching and Sorting Algorithms (KK 3.1.12)
+
+Understanding fundamental algorithms for searching and sorting data.
+
+**Covers:**
+- Selection sort and quick sort algorithms
+- Linear search and binary search algorithms
+- When to use each algorithm
+- Tracing algorithm execution
+- Pseudocode and C# implementations
+
+---
+
+### 9. Variables, Functions, and Classes (KK 3.1.8)
+
+Understanding scope, modularity, and object-oriented programming fundamentals.
+
+**Covers:**
+- Local and global variables, and constants
+- Functions and methods (return values vs procedures)
+- Classes and objects (blueprints vs instances)
+- Scope and data reliability
+- C# implementation patterns
+
+---
+
 ## How to Use This Section
 
 Each topic follows a consistent structure designed to build understanding progressively:
 
-### Standard Structure (Topics 1, 3, 4, 6, 7):
+### Standard Structure (Topics 1, 3, 4, 6, 7, 8, 9):
 - **Overview** - Introduction and learning objectives
 - **a. What You Need To Know** - Core concepts and theory
 - **b. Test Your Knowledge** - Multiple choice and short answer questions
@@ -146,3 +172,5 @@ As you complete each topic, check off your progress:
 - [ ] 5. Design Tools for Representing Modules
 - [ ] 6. Checking That Modules Function Correctly
 - [ ] 7. Data Sources - TXT, CSV and XML
+- [ ] 8. Searching and Sorting Algorithms
+- [ ] 9. Variables, Functions, and Classes
