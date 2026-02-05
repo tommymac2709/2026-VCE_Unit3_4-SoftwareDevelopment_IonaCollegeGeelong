@@ -69,11 +69,24 @@ Planning and documenting software design before coding.
 
 ---
 
+### 6. Checking That Modules Function Correctly (KK 3.1.14)
+
+Testing and debugging techniques to ensure modules work as intended.
+
+**Covers:**
+- Use of breakpoints
+- Use of debugging statements
+- Construction of relevant test data (valid, boundary, invalid)
+- Testing tables comparing expected and actual output
+- Systematic testing and debugging processes
+
+---
+
 ## How to Use This Section
 
 Each topic follows a consistent structure designed to build understanding progressively:
 
-### Standard Structure (Topics 1, 3, 4):
+### Standard Structure (Topics 1, 3, 4, 6):
 - **Overview** - Introduction and learning objectives
 - **a. What You Need To Know** - Core concepts and theory
 - **b. Test Your Knowledge** - Multiple choice and short answer questions
@@ -118,3 +131,4 @@ As you complete each topic, check off your progress:
 - [ ] 3. Control Functions - Validation - Errors
 - [ ] 4. Naming Conventions - Internal Documentation - Debugging and Testing
 - [ ] 5. Design Tools for Representing Modules
+- [ ] 6. Checking That Modules Function Correctly
