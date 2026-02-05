@@ -82,11 +82,24 @@ Testing and debugging techniques to ensure modules work as intended.
 
 ---
 
+### 7. Data Sources - TXT, CSV and XML (KK 3.1.6)
+
+Understanding different data source file formats and when to use them.
+
+**Covers:**
+- Plain text (TXT) files: structure and reasons for use
+- Delimited (CSV) files: structure and reasons for use
+- XML files: structure and reasons for use
+- Comparing file formats for different scenarios
+- C# file I/O implementation for each format
+
+---
+
 ## How to Use This Section
 
 Each topic follows a consistent structure designed to build understanding progressively:
 
-### Standard Structure (Topics 1, 3, 4, 6):
+### Standard Structure (Topics 1, 3, 4, 6, 7):
 - **Overview** - Introduction and learning objectives
 - **a. What You Need To Know** - Core concepts and theory
 - **b. Test Your Knowledge** - Multiple choice and short answer questions
@@ -132,3 +145,4 @@ As you complete each topic, check off your progress:
 - [ ] 4. Naming Conventions - Internal Documentation - Debugging and Testing
 - [ ] 5. Design Tools for Representing Modules
 - [ ] 6. Checking That Modules Function Correctly
+- [ ] 7. Data Sources - TXT, CSV and XML

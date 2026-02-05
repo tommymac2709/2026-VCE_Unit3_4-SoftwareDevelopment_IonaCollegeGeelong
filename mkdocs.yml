@@ -63,6 +63,13 @@ nav:
       - "c. Practical Examples": unit-3-outcome-1/coursework/6-checking-modules-function-correctly/c-practical-examples.md
       - "d. Applied Task": unit-3-outcome-1/coursework/6-checking-modules-function-correctly/d-applied-task.md
       - "e. Extras": unit-3-outcome-1/coursework/6-checking-modules-function-correctly/e-extras.md
+    - "7. Data Sources - TXT, CSV and XML":
+      - unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/index.md
+      - "a. What You Need To Know": unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/a-what-you-need-to-know.md
+      - "b. Test Your Knowledge": unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/b-test-your-knowledge.md
+      - "c. Practical Examples": unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/c-practical-examples.md
+      - "d. Applied Task": unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/d-applied-task.md
+      - "e. Extras": unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/e-extras.md
 
 extra_css:
   - stylesheets/extra.css
