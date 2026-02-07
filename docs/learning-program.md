@@ -7,7 +7,7 @@
 
 ## Term 1
 
-<table class="learning-program">
+<table>
   <thead>
     <tr>
       <th>Week</th>
@@ -259,7 +259,7 @@
 
 ## Term 2
 
-<table class="learning-program">
+<table>
   <thead>
     <tr>
       <th>Week</th>
@@ -433,3 +433,4 @@
 
 !!! tip "Need Help?"
     If you have questions about the learning program or need clarification on any topics, please speak with your teacher during class time.
+
