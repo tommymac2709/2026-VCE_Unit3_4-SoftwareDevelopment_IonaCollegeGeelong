@@ -39,7 +39,7 @@
       </td>
       <td>-</td>
       <td>
-        <a href="unit-3-outcome-1/coursework/1-data-types-and-data-structures/" class="checklist-link">Data Types & Data Structures</a>
+        [📚 Data Types & Data Structures](unit-3-outcome-1/coursework/1-data-types-and-data-structures/){: .checklist-link}
       </td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@
       </td>
       <td>-</td>
       <td>
-        <a href="unit-3-outcome-1/coursework/3-control-functions-validation-errors/" class="checklist-link">Control Functions, Validation & Errors</a>
+        [📚 Control Functions, Validation & Errors](unit-3-outcome-1/coursework/3-control-functions-validation-errors/){: .checklist-link}
       </td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@
       </td>
       <td>-</td>
       <td>
-        <a href="unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/" class="checklist-link">Naming, Documentation & Testing</a>
+        [📚 Naming, Documentation & Testing](unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/){: .checklist-link}
       </td>
     </tr>
     <tr>
@@ -116,8 +116,8 @@
         2x class periods this week
       </td>
       <td>
-        <a href="unit-3-outcome-1/coursework/2-solution-requirements/" class="checklist-link">Solution Requirements</a><br>
-        <a href="unit-3-outcome-1/coursework/5-design-tools-representing-modules/" class="checklist-link">Design Tools for Modules</a>
+        [📚 Solution Requirements](unit-3-outcome-1/coursework/2-solution-requirements/){: .checklist-link}<br>
+        [📚 Design Tools for Modules](unit-3-outcome-1/coursework/5-design-tools-representing-modules/){: .checklist-link}
       </td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@
       </td>
       <td>-</td>
       <td>
-        <a href="unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/" class="checklist-link">Data Sources: TXT, CSV & XML</a>
+        [📚 Data Sources: TXT, CSV & XML](unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/){: .checklist-link}
       </td>
     </tr>
     <tr>
@@ -157,7 +157,7 @@
         2x class periods this week
       </td>
       <td>
-        <a href="unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/" class="checklist-link">Searching & Sorting Algorithms</a>
+        [📚 Searching & Sorting Algorithms](unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/){: .checklist-link}
       </td>
     </tr>
     <tr>
@@ -185,8 +185,8 @@
       </td>
       <td>-</td>
       <td>
-        <a href="unit-3-outcome-1/coursework/9-variables-functions-classes/" class="checklist-link">Variables, Functions & Classes</a><br>
-        <a href="unit-3-outcome-1/coursework/10-oop-principles/" class="checklist-link">OOP Principles</a>
+        [📚 Variables, Functions & Classes](unit-3-outcome-1/coursework/9-variables-functions-classes/){: .checklist-link}<br>
+        [📚 OOP Principles](unit-3-outcome-1/coursework/10-oop-principles/){: .checklist-link}
       </td>
     </tr>
     <tr>
@@ -215,8 +215,8 @@
         3x class periods this week
       </td>
       <td>
-        <a href="unit-3-outcome-1/coursework/9-variables-functions-classes/" class="checklist-link">Variables, Functions & Classes</a><br>
-        <a href="unit-3-outcome-1/coursework/10-oop-principles/" class="checklist-link">OOP Principles</a>
+        [📚 Variables, Functions & Classes](unit-3-outcome-1/coursework/9-variables-functions-classes/){: .checklist-link}<br>
+        [📚 OOP Principles](unit-3-outcome-1/coursework/10-oop-principles/){: .checklist-link}
       </td>
     </tr>
     <tr>
@@ -352,7 +352,7 @@
       </td>
       <td>SAT authentication session</td>
       <td>
-        <a href="unit-3-outcome-1/coursework/5-design-tools-representing-modules/" class="checklist-link">Design Tools for Modules</a>
+        [📚 Design Tools for Modules](unit-3-outcome-1/coursework/5-design-tools-representing-modules/){: .checklist-link}
       </td>
     </tr>
     <tr>
@@ -377,7 +377,7 @@
       </td>
       <td>SAT authentication session</td>
       <td>
-        <a href="unit-3-outcome-1/coursework/5-design-tools-representing-modules/" class="checklist-link">Design Tools for Modules</a>
+        [📚 Design Tools for Modules](unit-3-outcome-1/coursework/5-design-tools-representing-modules/){: .checklist-link}
       </td>
     </tr>
     <tr>

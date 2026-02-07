@@ -256,11 +256,6 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-.md-typeset table .checklist-link::before {
-  content: "📚 ";
-  margin-right: 0.3rem;
-}
-
 /* Assessment column highlighting */
 .md-typeset table tbody td:nth-child(4) strong {
   color: #442566;
