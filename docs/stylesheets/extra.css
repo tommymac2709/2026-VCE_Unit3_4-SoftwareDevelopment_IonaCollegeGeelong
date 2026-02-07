@@ -184,3 +184,88 @@ body {
   background: #f7f7f7;
   border-left-color: #3990b0;
 }
+
+/* Learning Program Table Styling */
+.md-typeset table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.md-typeset table thead {
+  background: linear-gradient(135deg, #442566 0%, #5a3b7a 100%);
+}
+
+.md-typeset table thead th {
+  color: #ffffff !important;
+  font-weight: 700;
+  padding: 1rem;
+  text-align: left;
+  border: none;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.md-typeset table tbody tr {
+  border-bottom: 1px solid #e0e0e0;
+  transition: background-color 0.2s ease;
+}
+
+.md-typeset table tbody tr:hover {
+  background-color: rgba(57, 144, 176, 0.05);
+}
+
+.md-typeset table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.md-typeset table tbody td {
+  padding: 1rem;
+  vertical-align: top;
+  border: none;
+}
+
+.md-typeset table tbody td:first-child {
+  font-weight: 600;
+  color: #442566;
+  white-space: nowrap;
+  min-width: 120px;
+}
+
+/* Checklist column links styling */
+.md-typeset table .checklist-link {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  margin: 0.2rem 0;
+  background: linear-gradient(135deg, #3990b0 0%, #2a7a95 100%);
+  color: #ffffff !important;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.md-typeset table .checklist-link:hover {
+  background: linear-gradient(135deg, #442566 0%, #5a3b7a 100%);
+  color: #eec33a !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.md-typeset table .checklist-link::before {
+  content: "📚 ";
+  margin-right: 0.3rem;
+}
+
+/* Assessment column highlighting */
+.md-typeset table tbody td:nth-child(4) strong {
+  color: #442566;
+  background: rgba(238, 195, 58, 0.2);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  display: inline-block;
+}

@@ -39,8 +39,7 @@
       </td>
       <td>-</td>
       <td>
-        1. Data Types and Data Structures (Web view)<br>
-        [1. Data Types and Data Structures](unit-3-outcome-1/coursework/1-data-types-and-data-structures/index.md)
+        <a href="unit-3-outcome-1/coursework/1-data-types-and-data-structures/" class="checklist-link">Data Types & Data Structures</a>
       </td>
     </tr>
     <tr>
@@ -68,8 +67,7 @@
       </td>
       <td>-</td>
       <td>
-        3. Control Functions, Validation and Errors (Web view)<br>
-        [3. Control Functions, Validation and Errors](unit-3-outcome-1/coursework/3-control-functions-validation-errors/index.md)
+        <a href="unit-3-outcome-1/coursework/3-control-functions-validation-errors/" class="checklist-link">Control Functions, Validation & Errors</a>
       </td>
     </tr>
     <tr>
@@ -92,8 +90,7 @@
       </td>
       <td>-</td>
       <td>
-        4. Naming Conventions, Internal Documentation, Debugging and Testing (Web view)<br>
-        [4. Naming Conventions, Internal Documentation, Debugging and Testing](unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/index.md)
+        <a href="unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/" class="checklist-link">Naming, Documentation & Testing</a>
       </td>
     </tr>
     <tr>
@@ -119,8 +116,8 @@
         2x class periods this week
       </td>
       <td>
-        [2. Solution Requirements](unit-3-outcome-1/coursework/2-solution-requirements/index.md)<br>
-        [5. Design Tools for Representing Modules](unit-3-outcome-1/coursework/5-design-tools-representing-modules/index.md)
+        <a href="unit-3-outcome-1/coursework/2-solution-requirements/" class="checklist-link">Solution Requirements</a><br>
+        <a href="unit-3-outcome-1/coursework/5-design-tools-representing-modules/" class="checklist-link">Design Tools for Modules</a>
       </td>
     </tr>
     <tr>
@@ -139,7 +136,7 @@
       </td>
       <td>-</td>
       <td>
-        [7. Data Sources - TXT, CSV and XML](unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/index.md)
+        <a href="unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/" class="checklist-link">Data Sources: TXT, CSV & XML</a>
       </td>
     </tr>
     <tr>
@@ -160,7 +157,7 @@
         2x class periods this week
       </td>
       <td>
-        [8. Searching and Sorting Algorithms](unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/index.md)
+        <a href="unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/" class="checklist-link">Searching & Sorting Algorithms</a>
       </td>
     </tr>
     <tr>
@@ -188,8 +185,8 @@
       </td>
       <td>-</td>
       <td>
-        [9. Variables, Functions, and Classes](unit-3-outcome-1/coursework/9-variables-functions-classes/index.md)<br>
-        [10. OOP Principles](unit-3-outcome-1/coursework/10-oop-principles/index.md)
+        <a href="unit-3-outcome-1/coursework/9-variables-functions-classes/" class="checklist-link">Variables, Functions & Classes</a><br>
+        <a href="unit-3-outcome-1/coursework/10-oop-principles/" class="checklist-link">OOP Principles</a>
       </td>
     </tr>
     <tr>
@@ -218,8 +215,8 @@
         3x class periods this week
       </td>
       <td>
-        [9. Variables, Functions, and Classes](unit-3-outcome-1/coursework/9-variables-functions-classes/index.md)<br>
-        [10. OOP Principles](unit-3-outcome-1/coursework/10-oop-principles/index.md)
+        <a href="unit-3-outcome-1/coursework/9-variables-functions-classes/" class="checklist-link">Variables, Functions & Classes</a><br>
+        <a href="unit-3-outcome-1/coursework/10-oop-principles/" class="checklist-link">OOP Principles</a>
       </td>
     </tr>
     <tr>
@@ -355,7 +352,7 @@
       </td>
       <td>SAT authentication session</td>
       <td>
-        [5. Design Tools for Representing Modules](unit-3-outcome-1/coursework/5-design-tools-representing-modules/index.md)
+        <a href="unit-3-outcome-1/coursework/5-design-tools-representing-modules/" class="checklist-link">Design Tools for Modules</a>
       </td>
     </tr>
     <tr>
@@ -380,7 +377,7 @@
       </td>
       <td>SAT authentication session</td>
       <td>
-        [5. Design Tools for Representing Modules](unit-3-outcome-1/coursework/5-design-tools-representing-modules/index.md)
+        <a href="unit-3-outcome-1/coursework/5-design-tools-representing-modules/" class="checklist-link">Design Tools for Modules</a>
       </td>
     </tr>
     <tr>
