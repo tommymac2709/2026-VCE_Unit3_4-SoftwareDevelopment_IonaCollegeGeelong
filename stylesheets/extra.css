@@ -1,0 +1,266 @@
+:root {
+  --md-default-bg-color: #ffffff;
+  --md-default-fg-color: #000000;
+  --md-default-fg-color--light: #1a1a1a;
+  --md-default-fg-color--lighter: #333333;
+  --md-default-fg-color--lightest: #4d4d4d;
+
+  --md-primary-fg-color: #442566;
+  --md-primary-fg-color--light: #5a3b7a;
+  --md-primary-fg-color--dark: #341a4c;
+
+  --md-accent-fg-color: #3990b0;
+  --md-accent-fg-color--transparent: rgba(57, 144, 176, 0.15);
+
+  --gds-gold: #eec33a;
+  --gds-grey: #9c9fa1;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap");
+
+body {
+  color: #000000;
+  background: #ffffff;
+}
+
+/* Headings and links */
+.md-typeset h1,
+.md-typeset h2 {
+  color: #442566;
+  font-family: "Philosopher", "Times New Roman", serif !important;
+}
+
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  color: #442566;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.md-typeset a {
+  color: #3990b0;
+}
+
+.md-typeset a:hover {
+  color: #442566;
+}
+
+/* Navigation */
+.md-tabs,
+.md-header {
+  background-color: #442566;
+}
+
+.md-tabs__link,
+.md-header__title,
+.md-header__button {
+  color: #ffffff;
+}
+
+.md-header__title {
+  font-family: "Philosopher", "Times New Roman", serif !important;
+}
+
+.md-tabs__link {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #eec33a;
+}
+
+/* Admonitions: keep white background, color-coded borders */
+.md-typeset .admonition,
+.md-typeset details {
+  background: #ffffff;
+  color: #000000;
+  border-left: 0.2rem solid #442566;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  background: #ffffff;
+  color: #000000;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.md-typeset .admonition.tip,
+.md-typeset .admonition.tip > .admonition-title {
+  border-left-color: #3990b0;
+}
+
+.md-typeset .admonition.warning,
+.md-typeset .admonition.warning > .admonition-title {
+  border-left-color: #eec33a;
+}
+
+.md-typeset .admonition.info,
+.md-typeset .admonition.info > .admonition-title {
+  border-left-color: #9c9fa1;
+}
+
+.md-typeset .admonition.abstract,
+.md-typeset .admonition.abstract > .admonition-title {
+  border-left-color: #442566;
+}
+
+/* Table of contents: make sections distinct */
+.md-nav__title {
+  font-weight: 700;
+}
+
+.md-nav--secondary {
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  padding: 0.6rem 0.7rem;
+  border-radius: 6px;
+}
+
+.md-nav--secondary .md-nav__list {
+  margin-top: 0.4rem;
+}
+
+.md-nav--secondary .md-nav__item + .md-nav__item {
+  margin-top: 0.25rem;
+}
+
+.md-nav--secondary .md-nav__link {
+  padding: 0.15rem 0.25rem;
+  border-left: 3px solid transparent;
+}
+
+.md-nav--secondary .md-nav__link:hover {
+  background: #f7f7f7;
+  border-left-color: #3990b0;
+}
+
+.md-nav--secondary .md-nav__link--active {
+  background: #f2f2f2;
+  border-left-color: #442566;
+  color: #000000;
+}
+
+/* Left navigation: make sections distinct */
+.md-nav--primary {
+  background: #ffffff;
+}
+
+.md-nav--primary .md-nav__list {
+  padding: 0.4rem 0.5rem;
+}
+
+.md-nav--primary .md-nav__item {
+  margin: 0.1rem 0;
+}
+
+.md-nav--primary .md-nav__item--section > .md-nav__link {
+  font-weight: 700;
+  color: #442566;
+  background: #f7f7f7;
+  border-left: 4px solid #442566;
+  padding: 0.35rem 0.45rem;
+  border-radius: 6px;
+}
+
+.md-nav--primary .md-nav__item--section > .md-nav__link:hover {
+  background: #f2f2f2;
+}
+
+.md-nav--primary .md-nav__item--active > .md-nav__link {
+  color: #000000;
+  background: #f2f2f2;
+  border-left: 4px solid #eec33a;
+  border-radius: 6px;
+}
+
+.md-nav--primary .md-nav__link {
+  padding: 0.25rem 0.45rem;
+  border-left: 3px solid transparent;
+}
+
+.md-nav--primary .md-nav__link:hover {
+  background: #f7f7f7;
+  border-left-color: #3990b0;
+}
+
+/* Learning Program Table Styling */
+.md-typeset table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.md-typeset table thead {
+  background: linear-gradient(135deg, #442566 0%, #5a3b7a 100%);
+}
+
+.md-typeset table thead th {
+  color: #ffffff !important;
+  font-weight: 700;
+  padding: 1rem;
+  text-align: left;
+  border: none;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.md-typeset table tbody tr {
+  border-bottom: 1px solid #e0e0e0;
+  transition: background-color 0.2s ease;
+}
+
+.md-typeset table tbody tr:hover {
+  background-color: rgba(57, 144, 176, 0.05);
+}
+
+.md-typeset table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.md-typeset table tbody td {
+  padding: 1rem;
+  vertical-align: top;
+  border: none;
+}
+
+.md-typeset table tbody td:first-child {
+  font-weight: 600;
+  color: #442566;
+  white-space: nowrap;
+  min-width: 120px;
+}
+
+/* Checklist column links styling - targets 5th column */
+.md-typeset table tbody td:nth-child(5) a {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  margin: 0.2rem 0;
+  background: linear-gradient(135deg, #3990b0 0%, #2a7a95 100%);
+  color: #ffffff !important;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.md-typeset table tbody td:nth-child(5) a:hover {
+  background: linear-gradient(135deg, #442566 0%, #5a3b7a 100%);
+  color: #eec33a !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Assessment column highlighting */
+.md-typeset table tbody td:nth-child(4) strong {
+  color: #442566;
+  background: rgba(238, 195, 58, 0.2);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  display: inline-block;
+}
