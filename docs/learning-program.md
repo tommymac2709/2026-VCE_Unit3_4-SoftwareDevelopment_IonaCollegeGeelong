@@ -39,7 +39,7 @@
       </td>
       <td>-</td>
       <td>
-        [📚 Data Types & Data Structures](unit-3-outcome-1/coursework/1-data-types-and-data-structures/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/1-data-types-and-data-structures/">📚 Data Types & Data Structures</a>
       </td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@
       </td>
       <td>-</td>
       <td>
-        [📚 Control Functions, Validation & Errors](unit-3-outcome-1/coursework/3-control-functions-validation-errors/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/3-control-functions-validation-errors/">📚 Control Functions, Validation & Errors</a>
       </td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@
       </td>
       <td>-</td>
       <td>
-        [📚 Naming, Documentation & Testing](unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/4-naming-conventions-documentation-debugging/">📚 Naming, Documentation & Testing</a>
       </td>
     </tr>
     <tr>
@@ -116,8 +116,8 @@
         2x class periods this week
       </td>
       <td>
-        [📚 Solution Requirements](unit-3-outcome-1/coursework/2-solution-requirements/){: .checklist-link}<br>
-        [📚 Design Tools for Modules](unit-3-outcome-1/coursework/5-design-tools-representing-modules/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/2-solution-requirements/">📚 Solution Requirements</a><br>
+        <a href="../unit-3-outcome-1/coursework/5-design-tools-representing-modules/">📚 Design Tools for Modules</a>
       </td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@
       </td>
       <td>-</td>
       <td>
-        [📚 Data Sources: TXT, CSV & XML](unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/7-data-sources-txt-csv-xml/">📚 Data Sources: TXT, CSV & XML</a>
       </td>
     </tr>
     <tr>
@@ -157,7 +157,7 @@
         2x class periods this week
       </td>
       <td>
-        [📚 Searching & Sorting Algorithms](unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/8-searching-and-sorting-algorithms/">📚 Searching & Sorting Algorithms</a>
       </td>
     </tr>
     <tr>
@@ -185,8 +185,8 @@
       </td>
       <td>-</td>
       <td>
-        [📚 Variables, Functions & Classes](unit-3-outcome-1/coursework/9-variables-functions-classes/){: .checklist-link}<br>
-        [📚 OOP Principles](unit-3-outcome-1/coursework/10-oop-principles/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/9-variables-functions-classes/">📚 Variables, Functions & Classes</a><br>
+        <a href="../unit-3-outcome-1/coursework/10-oop-principles/">📚 OOP Principles</a>
       </td>
     </tr>
     <tr>
@@ -215,8 +215,8 @@
         3x class periods this week
       </td>
       <td>
-        [📚 Variables, Functions & Classes](unit-3-outcome-1/coursework/9-variables-functions-classes/){: .checklist-link}<br>
-        [📚 OOP Principles](unit-3-outcome-1/coursework/10-oop-principles/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/9-variables-functions-classes/">📚 Variables, Functions & Classes</a><br>
+        <a href="../unit-3-outcome-1/coursework/10-oop-principles/">📚 OOP Principles</a>
       </td>
     </tr>
     <tr>
@@ -352,7 +352,7 @@
       </td>
       <td>SAT authentication session</td>
       <td>
-        [📚 Design Tools for Modules](unit-3-outcome-1/coursework/5-design-tools-representing-modules/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/5-design-tools-representing-modules/">📚 Design Tools for Modules</a>
       </td>
     </tr>
     <tr>
@@ -377,7 +377,7 @@
       </td>
       <td>SAT authentication session</td>
       <td>
-        [📚 Design Tools for Modules](unit-3-outcome-1/coursework/5-design-tools-representing-modules/){: .checklist-link}
+        <a href="../unit-3-outcome-1/coursework/5-design-tools-representing-modules/">📚 Design Tools for Modules</a>
       </td>
     </tr>
     <tr>
